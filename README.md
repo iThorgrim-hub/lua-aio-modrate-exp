@@ -33,5 +33,7 @@ If you encounter a bug please [open a issue](https://github.com/iThorgrim-hub/El
 ## Credits
 
 * [iThorgrim-hub](https://github.com/iThorgrim-hub)
+* [Rochet2](https://github.com/Rochet2) for all his advice concerning the optimization of the AIO code
+* [Shard-MW](https://github.com/Shard-MW) for the idea of EXP Button
 
 AzerothCore: [repository](https://github.com/azerothcore) - [website](http://azerothcore.org/) - [discord chat community](https://discord.gg/PaqQRkd)
